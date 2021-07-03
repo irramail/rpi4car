@@ -1,0 +1,2 @@
+enable_tvout=1
+lcd_rotate=2
